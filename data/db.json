@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "September 04, 2023 1:45:08 PM",
+      "body": "Hi My name is Sharuk"
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "datetime": "September 04, 2023 1:45:56 PM",
+      "body": "I will be sharing about my learning experiences on react Js course."
+    }
+  ]
+}
